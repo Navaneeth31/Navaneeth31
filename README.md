@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Navaneeth31
-- 👀 I’m interested in gaming and readings stuff ...
-- 🌱 I’m currently learning coding ... 
+## 📫 Connect With Me
 
-
-<!---
-Navaneeth31/Navaneeth31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 LinkedIn: [Navaneeth Krishna Aytha](https://www.linkedin.com/in/navaneeth-krishna-aytha/)
+📧 Email: [aythanavaneeth7@gmail.com](mailto:aythanavaneeth7@gmail.com)
+📸 Instagram: [@navaneeth_krishna_31](https://www.instagram.com/navaneeth_krishna_31/)
